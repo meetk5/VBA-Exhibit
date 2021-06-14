@@ -1,0 +1,2 @@
+# VBA-Exhibit
+This Exhibit contains VBA Code and result screenshots for Stock Data over the years. It creates a new Summary Table with Ticker Symbol, Yearly Change in value of a Stock, Calculates Percent change and the Total Stock Volume. All this is achieved by the same code across the worksheets. In the Bonus Assignment, the greatest percent increase, greatest percent decrease and greatest Total Stock Volume are calculated and published with ticker symbols across the worksheets.
